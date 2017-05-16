@@ -10,8 +10,17 @@ class DefaultController extends Controller
     /**
      * @Route("/")
      */
-    public function indexAction()
+    public function siteAction()
     {
         return $this->render('FrontPageBundle:Default:index.html.twig');
     }
+
+    /**
+     * @Route("/site")
+     */
+    public function indexAction()
+    {
+        return $this->render('FrontPageBundle:FrontPage:index.html.twig');
+    }
+
 }
