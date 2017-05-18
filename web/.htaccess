@@ -17,6 +17,12 @@ DirectoryIndex app.php
     Options -MultiViews
 </IfModule>
 
+# Disable Index & Follow
+#
+<IfModule>
+    Header set X-Robots-Tag "noindex" "nofollow"
+</IfModule>
+
 <IfModule mod_rewrite.c>
     RewriteEngine On
 
