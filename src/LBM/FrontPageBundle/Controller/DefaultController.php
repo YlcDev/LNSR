@@ -16,7 +16,7 @@ class DefaultController extends Controller
     }
 
     /**
-     * @Route("/site")
+     * @Route("/site", name="site")
      */
     public function indexAction()
     {

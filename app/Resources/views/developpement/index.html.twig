@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Developpements list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for developpement in developpements %}
+            <tr>
+                <td><a href="{{ path('developpement_show', { 'id': developpement.id }) }}">{{ developpement.id }}</a></td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('developpement_show', { 'id': developpement.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('developpement_edit', { 'id': developpement.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('developpement_new') }}">Create a new developpement</a>
+        </li>
+    </ul>
+{% endblock %}

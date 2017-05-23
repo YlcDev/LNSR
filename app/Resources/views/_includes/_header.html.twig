@@ -6,61 +6,63 @@
             <nav class="m-main_nav style">
                 <ul>
                     <li>
-                        <a href="index_01.html">HOME</a>
+                        <a href="{{ path('site') }}">HOME</a>
                         <ul class="m-sub_nav">
-                            <li><a href="index_creatives.html">Home Creatives</a></li>
-                            <li><a href="index_photography.html">Home Photography</a></li>
-                            <li><a href="index_grid_thumbs.html">Home Grid</a></li>
-                            <li><a href="index_large.html">Home Large Blocks</a></li>
-                            <li><a href="index_architect.html">Home Architect</a></li>
-                            <li><a href="index_large_details.html">Home Large with Details</a></li>
-                            <li><a href="index_full_blocks.html">Home full Blocks</a></li>
-                            <li><a href="index_logo_position.html">Home logo position</a></li>
-                            <li><a href="index_altr_menu.html">Home Alternate menu</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="services.html">SERVICES</a></li>
-                    <li>
-                        <a href="portfolio_01.html">PORTFOLIO</a>
-                        <ul class="m-sub_nav">
-                            <li><a href="portfolio_01.html">Portfolio 1</a></li>
-                            <li><a href="portfolio_02.html">Portfolio 2</a></li>
-                            <li><a href="portfolio_03.html">Portfolio 3</a></li>
-                            <li><a href="portfolio_04.html">Portfolio 4</a></li>
-                            <li><a href="portfolio_single.html">Portfolio Single </a></li>
+                            {#<li><a href="index_creatives.html">Home Creatives</a></li>#}
+                            {#<li><a href="index_photography.html">Home Photography</a></li>#}
+                            {#<li><a href="index_grid_thumbs.html">Home Grid</a></li>#}
+                            {#<li><a href="index_large.html">Home Large Blocks</a></li>#}
+                            {#<li><a href="index_architect.html">Home Architect</a></li>#}
+                            {#<li><a href="index_large_details.html">Home Large with Details</a></li>#}
+                            {#<li><a href="index_full_blocks.html">Home full Blocks</a></li>#}
+                            {#<li><a href="index_logo_position.html">Home logo position</a></li>#}
+                            {#<li><a href="index_altr_menu.html">Home Alternate menu</a></li>#}
                         </ul>
                     </li>
                     <li>
-                        <a href="#">PAGES</a>
+                        <a href="{{ path('societe_index') }}">SOCIETE</a>
                         <ul class="m-sub_nav">
-                            <li><a href="error.html">Error</a></li>
-                            <li><a href="faq.html">Faq</a></li>
-                            <li><a href="coming_soon.html">Coming Soon</a></li>
+                            <li><a href="portfolio_01.html">Clients</a></li>
+                            <li><a href="portfolio_02.html">Projets réalisés</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="team_members.html">TEAM</a>
+                        <a href="{{ path('multimedia_index') }}">MULTIMEDIA</a>
                         <ul class="m-sub_nav">
-                            <li><a href="team_members.html">Team</a></li>
-                            <li><a href="single_team.html">Single Team</a></li>
+                            <li><a href="portfolio_01.html">Reportage photo/vidéo</a></li>
+                            <li><a href="portfolio_02.html">Captation spectacle</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="blog.html">BLOG</a>
+                        <a href="{{ path('developpement_index') }}">DEVELOPPEMENT</a>
                         <ul class="m-sub_nav">
-                            <li><a href="blog_full.html">Blog Full</a></li>
-                            <li><a href="blog_masonry.html">Blog Masonry</a></li>
-                            <li><a href="blog_single.html">Blog Single</a></li>
+                            <li><a href="error.html">Site Internet</a></li>
+                            <li><a href="faq.html">Edition d'application</a></li>
+                            <li><a href="coming_soon.html">Développement d'application spécifique</a></li>
                         </ul>
                     </li>
                     <li>
-                        <a href="index_shop.html">SHOP</a>
-                        <ul class="m-sub_nav">
-                            <li><a href="shop_single.html">Single Shop</a></li>
-                        </ul>
+                        <a href="{{ path('team_index') }}">TEAM</a>
+                        {#<ul class="m-sub_nav">#}
+                            {#<li><a href="team_members.html">Team</a></li>#}
+                            {#<li><a href="single_team.html">Single Team</a></li>#}
+                        {#</ul>#}
                     </li>
                     <li>
-                        <a href="contact.html">CONTACT</a>
+                        <a href="{{ path('formation_index') }}">FORMATION</a>
+                        <ul class="m-sub_nav">
+                            <li><a href="blog_full.html">Créer et gérer son blog wordpress</a></li>
+                            <li><a href="blog_masonry.html">Apprendre à filmer</a></li>
+                        </ul>
+                    </li>
+                    {#<li>#}
+                        {#<a href="index_shop.html">SHOP</a>#}
+                        {#<ul class="m-sub_nav">#}
+                            {#<li><a href="shop_single.html">Single Shop</a></li>#}
+                        {#</ul>#}
+                    {#</li>#}
+                    <li>
+                        <a href="{{ path('contact_index') }}">CONTACT</a>
                     </li>
                 </ul>
             </nav>
