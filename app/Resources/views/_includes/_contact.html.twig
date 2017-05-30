@@ -1,22 +1,35 @@
 <!-- BLOCK CONTACT & MAP-->
+<div class="m-main_slider">
+    <div class="m-logo">
+        <a href="{{ path('site') }}index.html"><img src="{{ asset('bundles/frontpage/assets/images/logo.png') }}" class="img-responsive" alt=""></a>
+    </div>
+    <img src="{{ asset('bundles/frontpage/assets/images/service_banner.jpg') }}" class="img-responsive" alt="">
+    <div class="container m-breadcrumb">
+        <h3>CONTACT</h3>
+        <div class="m-bread_links">
+            <a href="#">Home</a> <a href="#">Features</a> <span>Contact</span>
+        </div>
+    </div>
+</div>
 <section id="m-contact">
     <div class="container">
         <div class="m-contact_section">
             <div class="m-section_header">
                 <h2>CONTACT</h2>
-                <span>say something to us</span>
+                <span>laissez nous un message</span>
             </div>
         </div>
     </div>
-    <div id="m-map" class="m-map" data-lati="42.229676" data-long="11.012229"></div>
+
+    {#<div id="m-map" class="m-map" data-lati="42.229676" data-long="11.012229"></div>#}
     <div class="container">
         <div class="m-contact_info clearfix">
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
                 <form action="#" class="clearfix">
-                    <input type="text" name="name" placeholder="Your Name">
-                    <input type="email" name="email" placeholder="Email" class="pull-right">
+                    <input type="text" name="name" placeholder="Votre nom">
+                    <input type="email" name="email" placeholder="Courriel" class="pull-right">
                     <textarea name="message" placeholder="Message"></textarea>
-                    <button>send message</button>
+                    <button>envoyer le message</button>
                 </form>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
