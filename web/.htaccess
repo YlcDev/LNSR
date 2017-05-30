@@ -18,10 +18,10 @@ DirectoryIndex app.php
 </IfModule>
 
 # Disable Index & Follow
-#
-<IfModule>
-    Header set X-Robots-Tag "noindex" "nofollow"
-</IfModule>
+# POSE PROBLEME !!!
+#<IfModule>
+#    Header set X-Robots-Tag "noindex" "nofollow"
+#</IfModule>
 
 <IfModule mod_rewrite.c>
     RewriteEngine On

@@ -45,6 +45,7 @@ class DefaultController extends Controller
     public function contactAction()
     {
         return $this->render('FrontPageBundle:FrontPage:contact.html.twig');
+
     }
 
     /**

@@ -1,7 +1,15 @@
 {% extends 'base.html.twig' %}
 
 {% block body %}
-    <h1>Partie Société</h1>
+    {% include ('_includes/_header.html.twig') %}
 
-    <img src="{{ asset('bundles/frontpage/assets/images/page-en-construction.jpg') }}">
+    {% include ('_includes/_team.html.twig') %}
+
+
+    {% include ('_includes/_bar.html.twig') %}
+
+
+    {{ include('_includes/_services_type.html.twig') }}
+
+    {% include ('_includes/_footer.html.twig') %}
 {% endblock %}
