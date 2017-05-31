@@ -2,23 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3de82c9-3ef5-478f-a37c-97bb0af35974" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_developpement.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_formation.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_multimedia.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_team.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_valeurs.html.twig" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/symfony2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_histoire.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_bar.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_bar.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_footer.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_footer.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_header.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_header.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_services_type.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_services_type.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Controller/DefaultController.php" afterPath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Controller/DefaultController.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_developpement.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_developpement.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_formation.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_formation.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_message.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_message.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_multimedia.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_multimedia.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Resources/views/_includes/_services.html.twig" afterPath="$PROJECT_DIR$/app/Resources/views/_includes/_services.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/css/main.css" afterPath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/competences.html.twig" afterPath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/competences.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/contact.html.twig" afterPath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/contact.html.twig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/index.html.twig" afterPath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/index.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/societe.html.twig" afterPath="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/societe.html.twig" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/.htaccess" afterPath="$PROJECT_DIR$/web/.htaccess" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,22 +30,39 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="contact.html.twig" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/contact.html.twig">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_header.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_header.html.twig">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="65" column="44" lean-forward="false" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
+            <state relative-caret-position="825">
+              <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+              <folding>
+                <element signature="e#248#252#0#Twig" expanded="false" />
+                <element signature="e#1259#1266#0#Twig" expanded="false" />
+                <element signature="e#1688#1699#0#Twig" expanded="false" />
+                <element signature="e#2138#2146#0#Twig" expanded="false" />
+                <element signature="e#2411#2418#0#Twig" expanded="false" />
+                <element signature="e#2769#2773#0#Twig" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/scss/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="121" column="41" lean-forward="true" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultController.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Controller/DefaultController.php">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="46" column="63" lean-forward="false" selection-start-line="46" selection-start-column="63" selection-end-line="46" selection-end-column="63" />
+            <state relative-caret-position="165">
+              <caret line="315" column="42" lean-forward="false" selection-start-line="315" selection-start-column="42" selection-end-line="315" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -62,6 +74,10 @@
     <findStrings>
       <find>nav</find>
       <find>back</find>
+      <find>::after</find>
+      <find>last</find>
+      <find>last-c</find>
+      <find>li::after</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -72,34 +88,36 @@
       <list>
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_contact.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_counter.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/_includes/_message.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_minty.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_price_table.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_review.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_slider.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_team_member.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/_includes/_services.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_presentation.html.twig" />
-        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/index.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_portfolio.html.twig" />
         <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/blog.html.twig" />
         <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/services.html.twig" />
         <option value="$PROJECT_DIR$/web/.htaccess" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_navbar.html.twig" />
-        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/scss/main.scss" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_footer.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_team.html.twig" />
-        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/societe.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_bar.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_services_type.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/_includes/_header.html.twig" />
+        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/contact.html.twig" />
+        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/_includes/_message.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/_includes/_services.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/_includes/_histoire.html.twig" />
+        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/societe.html.twig" />
         <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/competences.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_developpement.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_formation.html.twig" />
         <option value="$PROJECT_DIR$/app/Resources/views/_includes/_multimedia.html.twig" />
-        <option value="$PROJECT_DIR$/app/Resources/views/_includes/_header.html.twig" />
-        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Controller/DefaultController.php" />
-        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/contact.html.twig" />
+        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/scss/main.scss" />
       </list>
     </option>
   </component>
@@ -148,8 +166,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="131" />
-    <option name="y" value="261" />
+    <option name="x" value="175" />
+    <option name="y" value="191" />
     <option name="width" value="1358" />
     <option name="height" value="673" />
   </component>
@@ -325,6 +343,120 @@
               <option name="myItemId" value="Resources" />
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scss" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main.scss" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LareaNetwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LareaNetwork" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LBM" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontPageBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LareaNetwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LareaNetwork" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LBM" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontPageBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LareaNetwork" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LareaNetwork" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LBM" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="FrontPageBundle" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -419,7 +551,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js.eslint.eslintPackage" value="" />
   </component>
@@ -503,17 +635,18 @@
       <workItem from="1496079550826" duration="814000" />
       <workItem from="1496087757599" duration="25000" />
       <workItem from="1496142685876" duration="6861000" />
+      <workItem from="1496251428746" duration="2970000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15175000" />
+    <option name="totallyTimeSpent" value="18145000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="131" y="261" width="1358" height="673" extended-state="0" />
+    <frame x="175" y="191" width="1358" height="673" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27279636" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27659574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -543,14 +676,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/web/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Entity/Formation.php" />
     <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -626,20 +751,6 @@
     <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Entity/Contact.php" />
     <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Entity/Formation.php" />
     <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Controller/ContactController.php" />
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_message.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_services.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="16" column="253" lean-forward="false" selection-start-line="16" selection-start-column="253" selection-end-line="16" selection-end-column="253" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_presentation.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -661,13 +772,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/services.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -679,13 +783,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/Default/index.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="87" />
         </state>
       </provider>
     </entry>
@@ -703,67 +800,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="1058" column="22" lean-forward="true" selection-start-line="1058" selection-start-column="22" selection-end-line="1058" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/scss/main.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-19">
-          <caret line="165" column="60" lean-forward="false" selection-start-line="165" selection-start-column="60" selection-end-line="165" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_navbar.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="62" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_navbar.html.twig" />
     <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_footer.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="20" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/teamIndex.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/nosValeurs.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/histoire.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/teamIndex.html.twig" />
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/nosValeurs.html.twig" />
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/histoire.html.twig" />
     <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_valeurs.html.twig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,12 +822,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="4" lean-forward="false" selection-start-line="1" selection-start-column="4" selection-end-line="7" selection-end-column="10" />
-          <folding>
-            <element signature="e#548#553#0#HTML" expanded="false" />
-            <element signature="e#1264#1269#0#HTML" expanded="false" />
-            <element signature="e#1980#1985#0#HTML" expanded="false" />
-            <element signature="e#2696#2701#0#HTML" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,67 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="44" column="32" lean-forward="false" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_services_type.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="52" column="50" lean-forward="false" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/societe.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="41" lean-forward="false" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/competences.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_developpement.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#861#867#0#HTML" expanded="true" />
-            <element signature="e#873#879#0#HTML" expanded="true" />
-            <element signature="e#883#889#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_formation.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="29" lean-forward="false" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="29" />
-          <folding>
-            <element signature="e#857#863#0#HTML" expanded="true" />
-            <element signature="e#869#875#0#HTML" expanded="true" />
-            <element signature="e#879#885#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_multimedia.html.twig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="30" lean-forward="false" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-          <folding>
-            <element signature="e#858#864#0#HTML" expanded="true" />
-            <element signature="e#870#876#0#HTML" expanded="true" />
-            <element signature="e#880#886#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -852,7 +836,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +843,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,7 +850,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -880,10 +861,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_header.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/contact.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="53" column="24" lean-forward="false" selection-start-line="53" selection-start-column="26" selection-end-line="55" selection-end-column="31" />
+        <state relative-caret-position="450">
+          <caret line="65" column="44" lean-forward="false" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
           <folding />
         </state>
       </provider>
@@ -896,10 +877,132 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/contact.html.twig">
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/Default/index.html.twig">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="65" column="44" lean-forward="false" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="87" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_message.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="6" column="603" lean-forward="false" selection-start-line="6" selection-start-column="603" selection-end-line="6" selection-end-column="603" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_services.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_histoire.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="35" column="264" lean-forward="false" selection-start-line="35" selection-start-column="264" selection-end-line="35" selection-end-column="264" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/societe.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="45" lean-forward="false" selection-start-line="11" selection-start-column="45" selection-end-line="11" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_services_type.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_multimedia.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_formation.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_developpement.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="53" column="10" lean-forward="false" selection-start-line="53" selection-start-column="10" selection-end-line="53" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/views/FrontPage/competences.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/_includes/_header.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="33" lean-forward="false" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+          <folding>
+            <element signature="e#248#252#0#Twig" expanded="false" />
+            <element signature="e#1259#1266#0#Twig" expanded="false" />
+            <element signature="e#1688#1699#0#Twig" expanded="false" />
+            <element signature="e#2138#2146#0#Twig" expanded="false" />
+            <element signature="e#2411#2418#0#Twig" expanded="false" />
+            <element signature="e#2769#2773#0#Twig" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/scss/main.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5570">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/scss/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="121" column="41" lean-forward="true" selection-start-line="121" selection-start-column="41" selection-end-line="121" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LBM/FrontPageBundle/Resources/public/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="315" column="42" lean-forward="false" selection-start-line="315" selection-start-column="42" selection-end-line="315" selection-end-column="42" />
           <folding />
         </state>
       </provider>
