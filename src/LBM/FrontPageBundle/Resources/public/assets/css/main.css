@@ -312,8 +312,11 @@ ul {
   padding: 0 14px;
   position: relative; }
 
+/*
+Deactivate line 319 to remove dots in menu
+ */
 .m-main_nav > ul > li::after {
-  background: #424242 none repeat scroll 0 0;
+  /*background: #424242 none repeat scroll 0 0;*/
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
